@@ -1,0 +1,31 @@
+body {
+    background-color:#EAF6F6;
+  }
+
+img {
+   width: 120px;
+   border-radius: 100px;
+   float: left;
+   margin-right: 10px;
+ }
+table {
+   border-collapse: collapse;
+ }
+ tr,
+ th,
+ td {
+   border: solid 1px;
+   padding: 5px;
+ }
+
+h1{
+    color:#66BFBF;
+}
+h3{
+    color:#66BFBF;
+}
+a:link{
+    text-decoration: none;
+    color:#66BFBF;
+    background-color: transparent;
+}
